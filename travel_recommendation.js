@@ -10,7 +10,7 @@ let dataPromise;
 
 function getTravelData() {
   if (!dataPromise) {
-    dataPromise = fetch('travel_recommendation_api.json')
+    dataPromise = fetch('travel_recommendation_api.json?v=2', { cache: 'no-store' })
       .then(response => {
         if (!response.ok) throw new Error('Unable to load destinations');
         return response.json();
