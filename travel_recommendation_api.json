@@ -1,0 +1,14 @@
+{
+  "beaches": [
+    {"id":1,"name":"Tropical coast","location":"Beach escape","description":"Slow down beside turquoise water and pale sand. Make time for a coastal walk, a quiet afternoon and the changing colors of the sea.","imageUrl":"https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=85","imageAlt":"White sandy tropical beach and clear turquoise sea","creditUrl":"https://unsplash.com"},
+    {"id":2,"name":"Island shoreline","location":"Beach escape","description":"Discover an island beach framed by palm trees and open water. Enjoy a relaxed shoreline walk and take in the ocean views.","imageUrl":"https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=800&q=85","imageAlt":"Scenic beach with a sweeping shoreline","creditUrl":"https://unsplash.com"}
+  ],
+  "temples": [
+    {"id":3,"name":"Angkor Wat","location":"Siem Reap, Cambodia","description":"Explore the monumental temple complex and its detailed stone carvings. Discover Khmer history and the quiet spaces around the temple grounds.","imageUrl":"https://images.unsplash.com/photo-1539650116574-75c0c6d73f6e?auto=format&fit=crop&w=800&q=85","imageAlt":"Historic temple architecture","creditUrl":"https://unsplash.com"},
+    {"id":4,"name":"Temple gardens of Kyoto","location":"Kyoto, Japan","description":"Discover Kyoto's temple traditions, garden paths and carefully preserved architecture. Take time to observe local customs and enjoy a reflective visit.","imageUrl":"https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=800&q=85","imageAlt":"Traditional temple and architecture in Japan","creditUrl":"https://unsplash.com"}
+  ],
+  "countries": [
+    {"id":5,"name":"Australia","location":"Country recommendation","description":"Explore Sydney's harbor, coastal walks and lively neighborhoods. Australia's landscapes offer a starting point for journeys through cities, coast and countryside.","imageUrl":"https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?auto=format&fit=crop&w=800&q=85","imageAlt":"Sydney Opera House and harbor in Australia","creditUrl":"https://unsplash.com"},
+    {"id":6,"name":"Japan","location":"Country recommendation","description":"Discover a country of historic streets, temple gardens and bustling cities. Build an itinerary around regional food, local traditions and thoughtful exploration.","imageUrl":"https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=800&q=85","imageAlt":"Traditional Japanese buildings and temple","creditUrl":"https://unsplash.com"}
+  ]
+}
